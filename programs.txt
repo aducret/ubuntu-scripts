@@ -1,0 +1,26 @@
+ubuntu-restricted-extras
+
+## dvd encoding ##
+libdvdread4
+
+## compression and uncompression ##
+rar
+unace
+p7zip-full
+p7zip-rar
+sharutils
+mpack
+lha
+arj
+
+## Programs ##
+boot-repair, yannubuntu/boot-repair
+unsettings, diesch/testing
+synaptic
+openShot
+chromium-browser
+deluge
+vlc
+fileZilla
+gimp
+vim
